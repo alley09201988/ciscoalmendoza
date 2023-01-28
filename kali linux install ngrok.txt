@@ -1,0 +1,22 @@
+###How To Go To Root Kali###
+$sudo su
+
+###How To Install ngrok###
+$sudo apt update
+
+###
+cd Downloads
+ls
+sudo tar zxvf ngrok-v3-stable-linux-amd64.tgz
+kali
+sudo mv ngrok /usr/local/bin/
+ngrok config add-authtoken 2KxkZSjjT3YTBEPL9X4VhOb8Mbg_5y7ou4cyufQUCKCS4RZh
+ngrok config add-authtoken 2KxkZSjjT3YTBEPL9X4VhOb8Mbg_5y7ou4cyufQUCKCS4RZh
+ls /home/kali/.config/ngrok/ngrok.yml
+cat /home/kali/.config/ngrok/ngrok.yml
+end
+
+2KxkZSjjT3YTBEPL9X4VhOb8Mbg_5y7ou4cyufQUCKCS4RZh
+ngrok help
+
+https://www.youtube.com/watch?v=ocHSoh-WokY&t=185s
