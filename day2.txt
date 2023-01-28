@@ -1,0 +1,51 @@
+Day2. Task1.
+1. Repetition is the mother
+of all skills:
+- switch: 
+- cucm:
+- edge:
+
+Task2: What 3 Letters that will make
+       your HR file/resume = promoted/
+       pirated
+              IPv4  IPv6
+promotion/jobInterview
+questions for N.E,S.E,CyberSc:
+Q1: what are public IP address and private
+ip address.
+Public IP address are Internet PingableIP/
+routable IP address.
+208.67.222.222
+208.67.220.220
+8.8.8.8
+1.1.1.1
+4.2.2.2
+
+What are Traceable IP Address:
+tracert www.x-art.com
+
+Q2: Private IP address are IP give to connect
+    to local network.
+   big/large:  10.0.0.0/8 -> 16,777,214 ip address.
+  
+   medium:    172.16.0.0/16 -> 64,534 ip address
+
+   home:   192.168.0-254.0/24 -> 254 ip address
+
+Q3: what are the Five ClassFulles of IP address:
+          "route print"
+specialAddress; 0.0.0.0:defRoute   
+            &  127.0.0.1: loopback
+A = 1-126
+B = 128-191
+C = 192-223
+D = 224-239
+E = 240-255
+
+
+
+
+
+
+
+
