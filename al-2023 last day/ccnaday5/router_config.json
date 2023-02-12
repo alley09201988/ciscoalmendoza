@@ -1,0 +1,23 @@
+{
+    "hostname":"admin",
+    "password":"password",
+    "ip_address":"192.168.108.142",
+    "subnet_mask":"255.255.255.0",
+    "interface":{
+        "Gigabit 2": {
+            "description":"gawainnipythonjson2",
+            "ip_address":"22.1.1.1",
+            "subnet_mask":"255.255.255.0"
+        },
+        "Gigabit 1": {
+            "description":"gawainnipythonjson3",
+            "ip_address":"111.1.1.1",
+            "subnet_mask":"255.255.255.0"
+        },
+        "Loopback 88": {
+            "description":"hahahahahahaha",
+            "ip_address":"22.1.1.1",
+            "subnet_mask":"255.255.255.0"
+        }
+    }
+}
